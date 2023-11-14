@@ -5,6 +5,8 @@ import "./App.css";
 import Welcome from "./components/Welcome";
 import Navbarr from "./components/Navbar";
 import Auctions from "./components/Auctions";
+import Discover from "./components/Discover";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <Navbarr />
       <Welcome />
       <Auctions />
+      <Discover />
+      <Footer />
     </div>
   );
 }
