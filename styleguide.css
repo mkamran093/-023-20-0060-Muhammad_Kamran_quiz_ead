@@ -1,0 +1,10 @@
+:root {
+  --gray-3: rgba(130, 130, 130, 1);
+  --gray-5: rgba(224, 224, 224, 1);
+  --heading-text-h2-poppins-48-medium-font-family: "Poppins-Medium", Helvetica;
+  --heading-text-h2-poppins-48-medium-font-size: 48px;
+  --heading-text-h2-poppins-48-medium-font-style: normal;
+  --heading-text-h2-poppins-48-medium-font-weight: 500;
+  --heading-text-h2-poppins-48-medium-letter-spacing: -1px;
+  --heading-text-h2-poppins-48-medium-line-height: 72px;
+}
